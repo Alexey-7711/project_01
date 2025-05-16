@@ -64,4 +64,5 @@ switch_it_up(number)
 #     break
 # while  n < 1 or n > 9:
 #     print('witch_it_up(9) -> Nine')
+>>>>>>> Stashed changes
 #     break
